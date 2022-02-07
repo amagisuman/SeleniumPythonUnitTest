@@ -13,7 +13,7 @@ from selenium.webdriver.support.ui import Select
 class LoginTest(unittest.TestCase):
     baseURL = "https://analytics.amagi.tv"
     username = "suman.kumar@amagi.com"
-    password = "PDCED*vzu70"
+    password = ""
     driver = webdriver.Firefox()
 
     @classmethod
