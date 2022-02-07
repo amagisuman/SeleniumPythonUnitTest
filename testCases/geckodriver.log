@@ -1,0 +1,1915 @@
+1642578305998	geckodriver	INFO	Listening on 127.0.0.1:42613
+1642578306001	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58519" "-no-remote" "-profile" "/tmp/rust_mozprofileEzOg8B"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1642578306520	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEzOg8B/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58519/devtools/browser/937b3d83-90f6-4291-a5d7-4c730b38425f
+1642578307408	Marionette	INFO	Listening on port 40849
+1642578307515	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642578309610	Marionette	INFO	Stopped listening on port 40849
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642578380886	geckodriver	INFO	Listening on 127.0.0.1:53649
+1642578380889	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53279" "-no-remote" "-profile" "/tmp/rust_mozprofileFix3oN"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1642578381402	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFix3oN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53279/devtools/browser/ed80a92f-5fbc-4b28-8acb-be22e8d1ece9
+1642578382547	Marionette	INFO	Listening on port 37249
+1642578383031	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642578384993	Marionette	INFO	Stopped listening on port 37249
+1642582134820	geckodriver	INFO	Listening on 127.0.0.1:53461
+1642582134823	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44237" "-no-remote" "-profile" "/tmp/rust_mozprofileZBY01h"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1642582135294	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZBY01h/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44237/devtools/browser/5168147f-a2af-42cd-b59b-3c4dc07bb706
+1642582136165	Marionette	INFO	Listening on port 40377
+1642582136236	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642582138350	Marionette	INFO	Stopped listening on port 40377
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642582160123	geckodriver	INFO	Listening on 127.0.0.1:49923
+1642582160125	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42661" "-no-remote" "-profile" "/tmp/rust_mozprofileNcaNRx"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1642582160631	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNcaNRx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42661/devtools/browser/a43faa43-217a-4432-b642-b6c5bc6e9190
+1642582161745	Marionette	INFO	Listening on port 40151
+1642582161851	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642582163797	Marionette	INFO	Stopped listening on port 40151
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642582767981	geckodriver	INFO	Listening on 127.0.0.1:51875
+1642582767984	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44383" "-no-remote" "-profile" "/tmp/rust_mozprofileUavQ2I"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1642582768447	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUavQ2I/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44383/devtools/browser/f69754b5-eb7a-438b-9020-bd7222f08017
+1642582769466	Marionette	INFO	Listening on port 45367
+1642582769503	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642582841035	Marionette	INFO	Stopped listening on port 45367
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642582843277	geckodriver	INFO	Listening on 127.0.0.1:40323
+1642582843280	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42533" "-no-remote" "-profile" "/tmp/rust_mozprofileYkFG6Z"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1642582843755	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYkFG6Z/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42533/devtools/browser/a0289ad0-f028-4c56-9b44-909fb5707a13
+1642582844741	Marionette	INFO	Listening on port 39063
+1642582844794	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642582856823	Marionette	INFO	Stopped listening on port 39063
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642582991887	geckodriver	INFO	Listening on 127.0.0.1:42731
+1642582991890	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37761" "-no-remote" "-profile" "/tmp/rust_mozprofileqsnRrK"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1642582992363	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqsnRrK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37761/devtools/browser/0b45934d-5800-48a1-a71e-bdd37d056e86
+1642582993222	Marionette	INFO	Listening on port 33541
+1642582993303	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642582994380	Marionette	INFO	Stopped listening on port 33541
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642583018382	geckodriver	INFO	Listening on 127.0.0.1:55667
+1642583018385	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47509" "-no-remote" "-profile" "/tmp/rust_mozprofile4I81fp"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1642583018871	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4I81fp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47509/devtools/browser/480c4527-72cb-4c3e-ab2e-ff5a8f4cd832
+1642583019741	Marionette	INFO	Listening on port 34513
+1642583019799	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642583028261	Marionette	INFO	Stopped listening on port 34513
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642583031436	geckodriver::marionette	ERROR	Failed to close browser connection: Transport endpoint is not connected (os error 107)
+1642583055524	geckodriver	INFO	Listening on 127.0.0.1:43869
+1642583055527	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56283" "-no-remote" "-profile" "/tmp/rust_mozprofilebleqwb"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1642583056026	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebleqwb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56283/devtools/browser/96b20fcd-211d-43b8-80ac-7752b0fc4b99
+1642583056891	Marionette	INFO	Listening on port 38377
+1642583056940	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+1642583071674	Marionette	INFO	Stopped listening on port 38377
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofilebleqwb/protections.sqlite
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642583114288	geckodriver	INFO	Listening on 127.0.0.1:60447
+1642583114291	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53739" "-no-remote" "-profile" "/tmp/rust_mozprofileWjtjPJ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1642583114781	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWjtjPJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53739/devtools/browser/2b8e524c-8f85-406f-bc3e-c330dec0b835
+1642583115659	Marionette	INFO	Listening on port 34553
+1642583115705	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+1642583124066	Marionette	INFO	Stopped listening on port 34553
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileWjtjPJ/protections.sqlite
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642583151570	geckodriver	INFO	Listening on 127.0.0.1:55837
+1642583151572	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56609" "-no-remote" "-profile" "/tmp/rust_mozprofile2dKhOu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1642583152079	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2dKhOu/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56609/devtools/browser/26806efa-95b6-44a4-bbd6-d875087f20f6
+1642583153087	Marionette	INFO	Listening on port 34459
+1642583153186	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642583154942	Marionette	INFO	Stopped listening on port 34459
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642583206712	geckodriver	INFO	Listening on 127.0.0.1:58227
+1642583206714	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38483" "-no-remote" "-profile" "/tmp/rust_mozprofileX7pZyF"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1642583207208	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileX7pZyF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38483/devtools/browser/1842cb42-7774-4384-9ac4-b0e8c49d4f07
+1642583208069	Marionette	INFO	Listening on port 44669
+1642583208127	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+1642583219236	Marionette	INFO	Stopped listening on port 44669
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:332:29
+
+1642583219260	geckodriver::marionette	ERROR	Failed to close browser connection: Transport endpoint is not connected (os error 107)
+Marionette threw an error: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 55"  data: no]
+allowAllCerts.disable@chrome://remote/content/marionette/cert.js:55:23
+destroy@chrome://remote/content/shared/webdriver/Session.jsm:202:19
+GeckoDriver.prototype.deleteSession@chrome://remote/content/marionette/driver.js:2198:25
+GeckoDriver.prototype.quit@chrome://remote/content/marionette/driver.js:2698:8
+despatch@chrome://remote/content/marionette/server.js:306:40
+execute@chrome://remote/content/marionette/server.js:279:16
+onPacket/<@chrome://remote/content/marionette/server.js:252:20
+onPacket@chrome://remote/content/marionette/server.js:253:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.js:500:20
+
+JavaScript error: chrome://remote/content/marionette/driver.js, line 2182: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642583442130	geckodriver	INFO	Listening on 127.0.0.1:56081
+1642583442133	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59163" "-no-remote" "-profile" "/tmp/rust_mozprofileoOpN0U"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1642583442609	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoOpN0U/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59163/devtools/browser/6741424f-52d0-40f6-b24c-0848a3492988
+1642583443628	Marionette	INFO	Listening on port 33537
+1642583443649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1642583453327	Marionette	INFO	Stopped listening on port 33537
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642583704389	geckodriver	INFO	Listening on 127.0.0.1:56963
+1642583704393	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40079" "-no-remote" "-profile" "/tmp/rust_mozprofileqoBZgd"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1642583704888	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqoBZgd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40079/devtools/browser/a503c6a9-5ad2-45f0-965f-ba2d982b8119
+1642583705750	Marionette	INFO	Listening on port 43393
+1642583705806	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1642583715868	Marionette	INFO	Stopped listening on port 43393
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642583753034	geckodriver	INFO	Listening on 127.0.0.1:50407
+1642583753037	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41635" "-no-remote" "-profile" "/tmp/rust_mozprofileZgx4cn"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1642583753513	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZgx4cn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41635/devtools/browser/c0343342-c5e8-4102-b165-3383149ff69c
+1642583754436	Marionette	INFO	Listening on port 38725
+1642583754453	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1642583769639	Marionette	INFO	Stopped listening on port 38725
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642584791508	geckodriver	INFO	Listening on 127.0.0.1:33595
+1642584791511	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60101" "-no-remote" "-profile" "/tmp/rust_mozprofile2NHJw6"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1642584791982	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2NHJw6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60101/devtools/browser/e8188c94-6175-43e9-8d4a-a66977671a94
+1642584792854	Marionette	INFO	Listening on port 40841
+1642584792929	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1642584813530	Marionette	INFO	Stopped listening on port 40841
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642585020205	geckodriver	INFO	Listening on 127.0.0.1:46233
+1642585020208	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35531" "-no-remote" "-profile" "/tmp/rust_mozprofileXZIOKm"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1642585020694	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXZIOKm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35531/devtools/browser/fa7406ed-e2f3-445c-a5d5-eda093fd9ec4
+1642585021535	Marionette	INFO	Listening on port 41633
+1642585021621	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1642585032254	Marionette	INFO	Stopped listening on port 41633
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642585043559	geckodriver	INFO	Listening on 127.0.0.1:52165
+1642585043562	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45251" "-no-remote" "-profile" "/tmp/rust_mozprofile9l9Oeg"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1642585044037	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9l9Oeg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45251/devtools/browser/eabd972a-3237-49d3-bada-7d869120add7
+1642585045061	Marionette	INFO	Listening on port 39273
+1642585045081	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1642585060985	Marionette	INFO	Stopped listening on port 39273
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642585270903	geckodriver	INFO	Listening on 127.0.0.1:51329
+1642585270906	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58643" "-no-remote" "-profile" "/tmp/rust_mozprofileY5djtq"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1642585271352	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileY5djtq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58643/devtools/browser/ad99504d-b66a-4481-92cc-86ac37b283ae
+1642585272388	Marionette	INFO	Listening on port 38079
+1642585272419	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1642585291867	Marionette	INFO	Stopped listening on port 38079
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642585300179	geckodriver	INFO	Listening on 127.0.0.1:56291
+1642585300182	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40289" "-no-remote" "-profile" "/tmp/rust_mozprofilevIvB3O"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1642585300652	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevIvB3O/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40289/devtools/browser/9e52b26c-f6cc-4cff-ac0d-63395f094384
+1642585301536	Marionette	INFO	Listening on port 33963
+1642585301594	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1642585322495	Marionette	INFO	Stopped listening on port 33963
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642585741695	geckodriver	INFO	Listening on 127.0.0.1:55235
+1642585741698	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53773" "-no-remote" "-profile" "/tmp/rust_mozprofileDRPCNb"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1642585742180	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDRPCNb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53773/devtools/browser/1ec19441-f6fd-48cf-b25b-516f1ed45c6f
+1642585743096	Marionette	INFO	Listening on port 42361
+1642585743115	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1642585762567	Marionette	INFO	Stopped listening on port 42361
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642585843960	geckodriver	INFO	Listening on 127.0.0.1:48283
+1642585843963	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60935" "-no-remote" "-profile" "/tmp/rust_mozprofile3OhSss"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1642585844458	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3OhSss/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60935/devtools/browser/0eede4b9-4c79-4e4a-917c-9cb4d46ad127
+1642585845322	Marionette	INFO	Listening on port 43311
+1642585845375	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1642585855477	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1642585861670	Marionette	INFO	Stopped listening on port 43311
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642585884013	geckodriver	INFO	Listening on 127.0.0.1:36201
+1642585884016	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56787" "-no-remote" "-profile" "/tmp/rust_mozprofiledjMRvj"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1642585884485	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledjMRvj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56787/devtools/browser/fe97e10c-04e1-479c-b959-e4f4d2bf8677
+1642585885544	Marionette	INFO	Listening on port 43145
+1642585885643	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1642585895688	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1642585907423	Marionette	INFO	Stopped listening on port 43145
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642586760822	geckodriver	INFO	Listening on 127.0.0.1:56013
+1642586760825	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59817" "-no-remote" "-profile" "/tmp/rust_mozprofiledcEQsw"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1642586761310	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledcEQsw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59817/devtools/browser/bbd7d590-6a32-4ba4-83b6-24e0aff20a42
+1642586762167	Marionette	INFO	Listening on port 38233
+1642586762243	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1642586773307	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1642586790502	Marionette	INFO	Stopped listening on port 38233
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642587675751	geckodriver	INFO	Listening on 127.0.0.1:50705
+1642587675754	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56273" "-no-remote" "-profile" "/tmp/rust_mozprofileanp81I"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1642587676214	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileanp81I/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56273/devtools/browser/12672862-5475-469b-bf57-e11e9b34b1cd
+1642587677294	Marionette	INFO	Listening on port 43169
+1642587677373	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1642587687007	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1642587703178	Marionette	INFO	Stopped listening on port 43169
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642587766108	geckodriver	INFO	Listening on 127.0.0.1:50209
+1642587766111	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37717" "-no-remote" "-profile" "/tmp/rust_mozprofile8WDlAu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1642587766599	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8WDlAu/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37717/devtools/browser/79fb07b0-2187-40f9-ac53-040d980e7295
+1642587767474	Marionette	INFO	Listening on port 37519
+1642587767524	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1642587778165	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1642587795442	Marionette	INFO	Stopped listening on port 37519
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642589909975	geckodriver	INFO	Listening on 127.0.0.1:39443
+1642589909978	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53747" "-no-remote" "-profile" "/tmp/rust_mozprofilevWnnOZ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1642589910439	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevWnnOZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53747/devtools/browser/2613ce36-974a-405b-b3e7-d3ba47bd48d2
+1642589911299	Marionette	INFO	Listening on port 43183
+1642589911391	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+1642589914960	Marionette	INFO	Stopped listening on port 43183
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteCommands'
+1642589926276	geckodriver	INFO	Listening on 127.0.0.1:52903
+1642589926279	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38599" "-no-remote" "-profile" "/tmp/rust_mozprofileyqhw07"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1642589926739	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyqhw07/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38599/devtools/browser/eb7353f3-bd73-4970-8e9e-92e27362e9e5
+1642589927781	Marionette	INFO	Listening on port 39267
+1642589927793	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+1642589932154	Marionette	INFO	Stopped listening on port 39267
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileyqhw07/protections.sqlite
+1642660465058	geckodriver	INFO	Listening on 127.0.0.1:34707
+1642660465563	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33391" "-no-remote" "-profile" "/tmp/rust_mozprofileMPytI1"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1642660467087	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMPytI1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33391/devtools/browser/4929dc07-f136-4bb0-ba2e-4dc52515146c
+1642660468939	Marionette	INFO	Listening on port 37603
+1642660468996	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1642660479361	Marionette	INFO	Stopped listening on port 37603
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642957071491	geckodriver	INFO	Listening on 127.0.0.1:40001
+1642957071998	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54129" "-no-remote" "-profile" "/tmp/rust_mozprofilesO8eUw"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1642957072587	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesO8eUw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54129/devtools/browser/e09ab5b2-5d3f-4236-af1a-82f676a082c0
+1642957073722	Marionette	INFO	Listening on port 41353
+1642957073815	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+1642957077995	Marionette	INFO	Stopped listening on port 41353
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642957111930	geckodriver	INFO	Listening on 127.0.0.1:60129
+1642957111933	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33973" "-no-remote" "-profile" "/tmp/rust_mozprofile7q6vgC"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1642957112413	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7q6vgC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33973/devtools/browser/d26d401d-0f62-4280-b5df-5e1ca6339486
+1642957113281	Marionette	INFO	Listening on port 45109
+1642957113347	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1642957124650	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1642957141768	Marionette	INFO	Stopped listening on port 45109
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642957691859	geckodriver	INFO	Listening on 127.0.0.1:59161
+1642957691862	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43037" "-no-remote" "-profile" "/tmp/rust_mozprofilew0THOI"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1642957692346	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilew0THOI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43037/devtools/browser/01633a7e-6df7-412f-bce2-4669fb1a89f2
+1642957693194	Marionette	INFO	Listening on port 37535
+1642957693277	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1642957703607	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1642957726110	Marionette	INFO	Stopped listening on port 37535
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642957756331	geckodriver	INFO	Listening on 127.0.0.1:43919
+1642957756334	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33543" "-no-remote" "-profile" "/tmp/rust_mozprofileGo30bo"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1642957756796	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGo30bo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33543/devtools/browser/35929d96-5f3e-4455-9ad3-210ad10df55b
+1642957757683	Marionette	INFO	Listening on port 33499
+1642957757754	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1642957768352	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1642957790992	Marionette	INFO	Stopped listening on port 33499
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643002950801	geckodriver	INFO	Listening on 127.0.0.1:43647
+1643002951308	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45769" "-no-remote" "-profile" "/tmp/rust_mozprofilefA6jtF"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643002951912	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefA6jtF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45769/devtools/browser/aaf07ad0-72a9-4c06-8b9b-7d66c584fd0c
+1643002953276	Marionette	INFO	Listening on port 35779
+1643002953754	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643002967057	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643002977843	Marionette	INFO	Stopped listening on port 35779
+1643003144505	geckodriver	INFO	Listening on 127.0.0.1:47995
+1643003144508	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40329" "-no-remote" "-profile" "/tmp/rust_mozprofilePrDLZU"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643003144970	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePrDLZU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40329/devtools/browser/ed7a68db-f760-443e-84d7-c7e877a52142
+1643003145989	Marionette	INFO	Listening on port 42813
+1643003146021	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643003159974	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643003170782	Marionette	INFO	Stopped listening on port 42813
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643003511826	geckodriver	INFO	Listening on 127.0.0.1:35657
+1643003511829	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41815" "-no-remote" "-profile" "/tmp/rust_mozprofilehQgL6u"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643003512275	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehQgL6u/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41815/devtools/browser/bf31f90b-de5a-47e9-8502-361be27448f2
+1643003513283	Marionette	INFO	Listening on port 46765
+1643003513342	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643003523034	Marionette	INFO	Stopped listening on port 46765
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643003561445	geckodriver	INFO	Listening on 127.0.0.1:53397
+1643003561447	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58251" "-no-remote" "-profile" "/tmp/rust_mozprofileEOV2as"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643003561920	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEOV2as/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58251/devtools/browser/b18c4235-2430-43eb-bf3f-a83a02112e47
+1643003562942	Marionette	INFO	Listening on port 32825
+1643003562964	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643003572418	Marionette	INFO	Stopped listening on port 32825
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643003649723	geckodriver	INFO	Listening on 127.0.0.1:54915
+1643003649726	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33311" "-no-remote" "-profile" "/tmp/rust_mozprofileigudoJ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643003650187	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileigudoJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33311/devtools/browser/f54052c2-b9ba-44d4-8c3e-95a39cc3ef7e
+1643003651216	Marionette	INFO	Listening on port 42521
+1643003651239	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643003661010	Marionette	INFO	Stopped listening on port 42521
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643003729371	geckodriver	INFO	Listening on 127.0.0.1:52125
+1643003729373	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59615" "-no-remote" "-profile" "/tmp/rust_mozprofileFCuPfh"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643003729856	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFCuPfh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59615/devtools/browser/78e60652-e3b4-4a08-bbf5-6be0b4b18bf8
+1643003730882	Marionette	INFO	Listening on port 41955
+1643003730987	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643003741607	Marionette	INFO	Stopped listening on port 41955
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643003800275	geckodriver	INFO	Listening on 127.0.0.1:57123
+1643003800278	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43635" "-no-remote" "-profile" "/tmp/rust_mozprofile82ZZEc"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643003800750	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile82ZZEc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43635/devtools/browser/719932d5-a3b7-4a40-9331-38bebfc726ea
+1643003801593	Marionette	INFO	Listening on port 46753
+1643003801702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643003810387	Marionette	INFO	Stopped listening on port 46753
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643003933425	geckodriver	INFO	Listening on 127.0.0.1:35193
+1643003933428	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37503" "-no-remote" "-profile" "/tmp/rust_mozprofileq8E281"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643003933906	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileq8E281/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37503/devtools/browser/44ee31fb-127e-4aae-9615-ef148ade3ae5
+1643003934928	Marionette	INFO	Listening on port 33231
+1643003934945	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643003949778	Marionette	INFO	Stopped listening on port 33231
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643004330972	geckodriver	INFO	Listening on 127.0.0.1:32795
+1643004330975	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41953" "-no-remote" "-profile" "/tmp/rust_mozprofileUnGSMT"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643004331454	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUnGSMT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41953/devtools/browser/e411e4b6-7915-4046-a223-3094a96df9b9
+1643004332310	Marionette	INFO	Listening on port 43001
+1643004332387	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643004346762	Marionette	INFO	Stopped listening on port 43001
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643004490630	geckodriver	INFO	Listening on 127.0.0.1:55125
+1643004490633	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56995" "-no-remote" "-profile" "/tmp/rust_mozprofileyGpT0l"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643004491124	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyGpT0l/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56995/devtools/browser/84ce9d47-97bf-49a7-a802-dbbec2fc1772
+1643004492020	Marionette	INFO	Listening on port 40975
+1643004492047	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643004505903	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643004516702	Marionette	INFO	Stopped listening on port 40975
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643004600217	geckodriver	INFO	Listening on 127.0.0.1:35299
+1643004600221	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40977" "-no-remote" "-profile" "/tmp/rust_mozprofileq5ZeSt"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643004600724	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileq5ZeSt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40977/devtools/browser/d450f03c-2884-468a-b02e-15749480cdb5
+1643004601673	Marionette	INFO	Listening on port 42043
+1643004601735	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643004626318	Marionette	INFO	Stopped listening on port 42043
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643004726556	geckodriver	INFO	Listening on 127.0.0.1:47189
+1643004726559	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46025" "-no-remote" "-profile" "/tmp/rust_mozprofilewQBRxw"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643004727055	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewQBRxw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46025/devtools/browser/771b2efe-978c-447e-ab28-78e6299f9b6a
+1643004728072	Marionette	INFO	Listening on port 43235
+1643004728186	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643004746618	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643004757398	Marionette	INFO	Stopped listening on port 43235
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643005478519	geckodriver	INFO	Listening on 127.0.0.1:36125
+1643005478522	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35447" "-no-remote" "-profile" "/tmp/rust_mozprofiledBNqhh"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643005479008	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledBNqhh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35447/devtools/browser/f45ed4a8-2e66-4e37-8d6e-6f67c75141a3
+1643005480046	Marionette	INFO	Listening on port 46315
+1643005480135	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643005498369	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643005498583	Marionette	INFO	Stopped listening on port 46315
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643005621116	geckodriver	INFO	Listening on 127.0.0.1:47893
+1643005621119	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51161" "-no-remote" "-profile" "/tmp/rust_mozprofileLGzPYK"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643005621645	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLGzPYK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51161/devtools/browser/1bbf26ca-272b-4c02-9dc8-6f7eee363ebf
+1643005622574	Marionette	INFO	Listening on port 41049
+1643005622633	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643005640521	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643005640725	Marionette	INFO	Stopped listening on port 41049
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643005672328	geckodriver	INFO	Listening on 127.0.0.1:56659
+1643005672331	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54071" "-no-remote" "-profile" "/tmp/rust_mozprofileAYHf2C"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643005672803	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAYHf2C/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54071/devtools/browser/e7047a72-4124-4d09-be76-5bd44eb390cc
+1643005673904	Marionette	INFO	Listening on port 33223
+1643005673945	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643005682597	Marionette	INFO	Stopped listening on port 33223
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643005861413	geckodriver	INFO	Listening on 127.0.0.1:37513
+1643005861416	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45929" "-no-remote" "-profile" "/tmp/rust_mozprofileyHpfrO"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643005861898	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyHpfrO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45929/devtools/browser/8904dfa0-f5f9-40de-beed-e57d16d1b45b
+1643005862913	Marionette	INFO	Listening on port 42219
+1643005862930	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643005872275	Marionette	INFO	Stopped listening on port 42219
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643005901118	geckodriver	INFO	Listening on 127.0.0.1:58237
+1643005901121	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37129" "-no-remote" "-profile" "/tmp/rust_mozprofileoVnGZ2"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643005901588	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoVnGZ2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37129/devtools/browser/0d48f5d4-a8d5-4e41-be9d-31896e8664d6
+1643005902585	Marionette	INFO	Listening on port 42557
+1643005902634	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643005920888	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643005931694	Marionette	INFO	Stopped listening on port 42557
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643006651327	geckodriver	INFO	Listening on 127.0.0.1:43085
+1643006651330	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60855" "-no-remote" "-profile" "/tmp/rust_mozprofile3LRx7P"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643006651829	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3LRx7P/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60855/devtools/browser/33445393-b941-4e5a-aa3d-4468b1adaed8
+1643006652855	Marionette	INFO	Listening on port 33809
+1643006652943	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643006667979	Marionette	INFO	Stopped listening on port 33809
+1643006719968	geckodriver	INFO	Listening on 127.0.0.1:44343
+1643006719971	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40099" "-no-remote" "-profile" "/tmp/rust_mozprofile7LaWqT"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643006720511	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7LaWqT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40099/devtools/browser/95042bc2-afc4-4416-93da-09619a5d426a
+1643006721696	Marionette	INFO	Listening on port 40135
+1643006721805	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643006736400	Marionette	INFO	Stopped listening on port 40135
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643007027438	geckodriver	INFO	Listening on 127.0.0.1:40659
+1643007027441	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34931" "-no-remote" "-profile" "/tmp/rust_mozprofileBb1Hk4"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643007027915	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBb1Hk4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34931/devtools/browser/7fbd535b-9d95-4f6c-bf40-e20cd98bfff5
+1643007028886	Marionette	INFO	Listening on port 40239
+1643007028954	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643007043676	Marionette	INFO	Stopped listening on port 40239
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643007376258	geckodriver	INFO	Listening on 127.0.0.1:33651
+1643007376261	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45521" "-no-remote" "-profile" "/tmp/rust_mozprofile6TvNLZ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643007376743	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6TvNLZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45521/devtools/browser/97ff6987-9069-4a98-ad20-f924324acea3
+1643007377761	Marionette	INFO	Listening on port 38479
+1643007377778	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643007392632	Marionette	INFO	Stopped listening on port 38479
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643007418482	geckodriver	INFO	Listening on 127.0.0.1:36177
+1643007418484	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40777" "-no-remote" "-profile" "/tmp/rust_mozprofilei1IwzY"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643007418953	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilei1IwzY/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40777/devtools/browser/8193da1f-9323-44a5-b7e0-91dd8f741bdf
+1643007419981	Marionette	INFO	Listening on port 33729
+1643007419998	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643007435173	Marionette	INFO	Stopped listening on port 33729
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643007776601	geckodriver	INFO	Listening on 127.0.0.1:46421
+1643007776604	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39023" "-no-remote" "-profile" "/tmp/rust_mozprofilehj4GCO"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643007777068	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehj4GCO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39023/devtools/browser/cdbd284b-7782-402e-95ce-c820b40bddb4
+1643007778065	Marionette	INFO	Listening on port 41907
+1643007778117	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643007796807	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643007803807	Marionette	INFO	Stopped listening on port 41907
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643007865637	geckodriver	INFO	Listening on 127.0.0.1:45209
+1643007865640	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53573" "-no-remote" "-profile" "/tmp/rust_mozprofileqJ6vr2"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643007866110	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqJ6vr2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53573/devtools/browser/4f3ad75f-4a97-4e6c-8213-9ad92b1d90fb
+1643007867152	Marionette	INFO	Listening on port 42791
+1643007867252	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643007885481	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643007892476	Marionette	INFO	Stopped listening on port 42791
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643008378958	geckodriver	INFO	Listening on 127.0.0.1:60197
+1643008378961	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49009" "-no-remote" "-profile" "/tmp/rust_mozprofile6HpZEk"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643008379462	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6HpZEk/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49009/devtools/browser/cbaf8e73-1685-4118-bb1d-53753ec716e4
+1643008380446	Marionette	INFO	Listening on port 40569
+1643008380475	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643008398231	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643008413454	Marionette	INFO	Stopped listening on port 40569
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643008535570	geckodriver	INFO	Listening on 127.0.0.1:52763
+1643008535573	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40213" "-no-remote" "-profile" "/tmp/rust_mozprofileqkUYIX"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643008536080	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqkUYIX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40213/devtools/browser/48dedbc4-e35b-4145-9766-4737b2165d7b
+1643008536996	Marionette	INFO	Listening on port 42365
+1643008537088	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643008555579	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643008570801	Marionette	INFO	Stopped listening on port 42365
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643008614284	geckodriver	INFO	Listening on 127.0.0.1:44023
+1643008614287	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56333" "-no-remote" "-profile" "/tmp/rust_mozprofilecVgamx"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643008614763	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecVgamx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56333/devtools/browser/5eaab2fd-7a8a-46cb-9c4d-16d7a9bd5274
+1643008615688	Marionette	INFO	Listening on port 38767
+1643008615703	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643008634445	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643008649734	Marionette	INFO	Stopped listening on port 38767
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643008874489	geckodriver	INFO	Listening on 127.0.0.1:44481
+1643008874492	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54325" "-no-remote" "-profile" "/tmp/rust_mozprofileheM379"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643008874964	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileheM379/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54325/devtools/browser/473e57d7-1a76-4668-8ff7-31181ec64a12
+1643008875973	Marionette	INFO	Listening on port 36737
+1643008876007	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643008894830	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643008909351	Marionette	INFO	Stopped listening on port 36737
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643009622766	geckodriver	INFO	Listening on 127.0.0.1:37341
+1643009622769	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49961" "-no-remote" "-profile" "/tmp/rust_mozprofileZdd32d"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643009623232	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZdd32d/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49961/devtools/browser/40ee4677-52a2-4c70-9eec-8e2f44670767
+1643009624148	Marionette	INFO	Listening on port 40953
+1643009624979	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643009643718	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643009659022	Marionette	INFO	Stopped listening on port 40953
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643009938025	geckodriver	INFO	Listening on 127.0.0.1:49541
+1643009938027	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59431" "-no-remote" "-profile" "/tmp/rust_mozprofileh4h3E4"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643009938497	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileh4h3E4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59431/devtools/browser/7fc14607-efc6-4546-aa69-6dff188c6771
+1643009939508	Marionette	INFO	Listening on port 33443
+1643009939541	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643009958063	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643009973372	Marionette	INFO	Stopped listening on port 33443
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643182693734	geckodriver	INFO	Listening on 127.0.0.1:40835
+1643182694240	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54953" "-no-remote" "-profile" "/tmp/rust_mozprofilepdvKoj"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643182694857	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepdvKoj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54953/devtools/browser/e72cf078-c545-4491-9158-0c931b6075c3
+1643182695804	Marionette	INFO	Listening on port 35423
+1643182695855	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643182713702	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643182727444	Marionette	INFO	Stopped listening on port 35423
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643183000392	geckodriver	INFO	Listening on 127.0.0.1:54497
+1643183000395	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56915" "-no-remote" "-profile" "/tmp/rust_mozprofilesjK46r"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643183000873	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesjK46r/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56915/devtools/browser/6e865318-e99e-41d8-ac4c-7fed1ac6c25e
+1643183001877	Marionette	INFO	Listening on port 36715
+1643183001908	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643183021037	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643183036312	Marionette	INFO	Stopped listening on port 36715
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643183188034	geckodriver	INFO	Listening on 127.0.0.1:39849
+1643183188037	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52311" "-no-remote" "-profile" "/tmp/rust_mozprofile9aay3O"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643183188494	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9aay3O/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52311/devtools/browser/4aa282ef-6380-42ea-bc80-98b7f3dce633
+1643183189298	Marionette	INFO	Listening on port 39697
+1643183190142	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643183209236	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643183226548	Marionette	INFO	Stopped listening on port 39697
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643183254089	geckodriver	INFO	Listening on 127.0.0.1:32865
+1643183254092	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34747" "-no-remote" "-profile" "/tmp/rust_mozprofileYmhJO4"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643183254553	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYmhJO4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34747/devtools/browser/b895b8b0-7d05-4115-be76-be9c2040e211
+1643183255399	Marionette	INFO	Listening on port 34239
+1643183255509	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643183274408	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643183293746	Marionette	INFO	Stopped listening on port 34239
+1643183449050	geckodriver	INFO	Listening on 127.0.0.1:41847
+1643183449053	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55611" "-no-remote" "-profile" "/tmp/rust_mozprofile4iohEq"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643183449518	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4iohEq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55611/devtools/browser/6df2ef81-b3b2-4942-8e6b-8316bf944f8f
+1643183450393	Marionette	INFO	Listening on port 39397
+1643183450466	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643183468845	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643183490161	Marionette	INFO	Stopped listening on port 39397
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643184025441	geckodriver	INFO	Listening on 127.0.0.1:55465
+1643184025443	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44227" "-no-remote" "-profile" "/tmp/rust_mozprofileQiq2GG"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643184025929	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQiq2GG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44227/devtools/browser/08452f96-c8d4-4ca2-a29f-0c93172953b7
+1643184027171	Marionette	INFO	Listening on port 33543
+1643184027562	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643184046193	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643184068744	Marionette	INFO	Stopped listening on port 33543
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643184121944	geckodriver	INFO	Listening on 127.0.0.1:34913
+1643184121947	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37943" "-no-remote" "-profile" "/tmp/rust_mozprofileTExL4X"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643184122424	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTExL4X/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37943/devtools/browser/477b4e8f-f7e2-44b3-bf99-8f20117cbb64
+1643184123473	Marionette	INFO	Listening on port 43679
+1643184123560	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643184142336	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643184164862	Marionette	INFO	Stopped listening on port 43679
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643184183912	geckodriver	INFO	Listening on 127.0.0.1:50733
+1643184183915	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53299" "-no-remote" "-profile" "/tmp/rust_mozprofileMLQxfY"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643184184375	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMLQxfY/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53299/devtools/browser/d9e1e0a9-473c-4bdb-a795-ef3d79530c60
+1643184185359	Marionette	INFO	Listening on port 44671
+1643184185429	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643184204205	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643184226754	Marionette	INFO	Stopped listening on port 44671
+1643184343922	geckodriver	INFO	Listening on 127.0.0.1:43123
+1643184343925	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59335" "-no-remote" "-profile" "/tmp/rust_mozprofilem6PoQm"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643184344389	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilem6PoQm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59335/devtools/browser/2e795f0b-6c68-45b2-adf9-c5f501093ba1
+1643184345292	Marionette	INFO	Listening on port 38689
+1643184345338	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643184363838	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643184385656	Marionette	INFO	Stopped listening on port 38689
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643184596601	geckodriver	INFO	Listening on 127.0.0.1:40569
+1643184596604	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50667" "-no-remote" "-profile" "/tmp/rust_mozprofilerL9Gvu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643184597077	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerL9Gvu/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50667/devtools/browser/f87cc5c1-3073-46d4-b5d5-09d223643227
+1643184597930	Marionette	INFO	Listening on port 40737
+1643184598017	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643184616203	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643184640981	Marionette	INFO	Stopped listening on port 40737
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643184710902	geckodriver	INFO	Listening on 127.0.0.1:36551
+1643184710904	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50805" "-no-remote" "-profile" "/tmp/rust_mozprofileST3HKn"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643184711366	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileST3HKn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50805/devtools/browser/f37b81be-1f16-4e3b-9a3d-0666c6214133
+1643184712379	Marionette	INFO	Listening on port 39579
+1643184712417	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643184730709	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643184752531	Marionette	INFO	Stopped listening on port 39579
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643184856758	geckodriver	INFO	Listening on 127.0.0.1:54805
+1643184856761	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45727" "-no-remote" "-profile" "/tmp/rust_mozprofileu1cKo0"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643184857243	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileu1cKo0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45727/devtools/browser/f2c7c198-d2c3-44f1-be0a-abd50206b754
+1643184858090	Marionette	INFO	Listening on port 36329
+1643184858173	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643184876612	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643184901259	Marionette	INFO	Stopped listening on port 36329
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643184917273	geckodriver	INFO	Listening on 127.0.0.1:42665
+1643184917276	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33431" "-no-remote" "-profile" "/tmp/rust_mozprofilertlgE7"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643184917784	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilertlgE7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33431/devtools/browser/399d0d5d-4317-4be5-a24a-3dbaadb139c4
+1643184918637	Marionette	INFO	Listening on port 33477
+1643184918694	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643184937540	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643184965430	Marionette	INFO	Stopped listening on port 33477
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643185153199	geckodriver	INFO	Listening on 127.0.0.1:51937
+1643185153202	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59405" "-no-remote" "-profile" "/tmp/rust_mozprofileI2p0Oe"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643185153665	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileI2p0Oe/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59405/devtools/browser/8cd623df-c67d-4fc9-a4a7-e19bfa14c954
+1643185154517	Marionette	INFO	Listening on port 42517
+1643185154615	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643185173059	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643185204894	Marionette	INFO	Stopped listening on port 42517
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643185294207	geckodriver	INFO	Listening on 127.0.0.1:47801
+1643185294210	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40947" "-no-remote" "-profile" "/tmp/rust_mozprofile2VIT76"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643185294676	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2VIT76/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40947/devtools/browser/122d8472-44b0-4e5b-a666-72ed208b213f
+1643185295697	Marionette	INFO	Listening on port 41195
+1643185295724	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643185314254	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643185346106	Marionette	INFO	Stopped listening on port 41195
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643185463522	geckodriver	INFO	Listening on 127.0.0.1:40127
+1643185463525	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38079" "-no-remote" "-profile" "/tmp/rust_mozprofilesvtykB"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643185463980	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesvtykB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38079/devtools/browser/aebb2c49-f152-4ddc-9b68-b2f773f0638e
+1643185464833	Marionette	INFO	Listening on port 35879
+1643185464938	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643185483837	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643185517727	Marionette	INFO	Stopped listening on port 35879
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643190166029	geckodriver	INFO	Listening on 127.0.0.1:42979
+1643190166033	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54483" "-no-remote" "-profile" "/tmp/rust_mozprofile8xLhMu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643190166533	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8xLhMu/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54483/devtools/browser/a80f90da-60e1-462c-a09c-a16cf682c625
+1643190167553	Marionette	INFO	Listening on port 43349
+1643190167649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643190181478	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643190215324	Marionette	INFO	Stopped listening on port 43349
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643190295624	geckodriver	INFO	Listening on 127.0.0.1:48597
+1643190295627	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47749" "-no-remote" "-profile" "/tmp/rust_mozprofileNKkDPn"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643190296105	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNKkDPn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47749/devtools/browser/cfb51393-33b2-490d-9d15-37d8470906a9
+1643190296967	Marionette	INFO	Listening on port 38933
+1643190297041	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643190310956	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643190344836	Marionette	INFO	Stopped listening on port 38933
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643190366750	geckodriver	INFO	Listening on 127.0.0.1:53093
+1643190366753	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41713" "-no-remote" "-profile" "/tmp/rust_mozprofilex3Xocb"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643190367227	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilex3Xocb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41713/devtools/browser/49df7808-e603-4f59-a18b-e668155606ee
+1643190368195	Marionette	INFO	Listening on port 41443
+1643190368269	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643190381715	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://www.gstatic.com/charts/51/js/jsapi_compiled_default_module.js, line 65: TypeError: can't convert undefined to object
+1643190415621	Marionette	INFO	Stopped listening on port 41443
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643190546562	geckodriver	INFO	Listening on 127.0.0.1:50943
+1643190546565	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50661" "-no-remote" "-profile" "/tmp/rust_mozprofilekqBJNM"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643190547026	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekqBJNM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50661/devtools/browser/3791e716-3839-43a5-b4a7-6f4a59eb7dba
+1643190548165	Marionette	INFO	Listening on port 38077
+1643190548642	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643190562912	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643190596808	Marionette	INFO	Stopped listening on port 38077
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643190749495	geckodriver	INFO	Listening on 127.0.0.1:54587
+1643190749498	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39179" "-no-remote" "-profile" "/tmp/rust_mozprofilesS0cI3"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643190749970	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesS0cI3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39179/devtools/browser/66bd16a0-4cdd-4d74-8532-cde2bf833923
+1643190750998	Marionette	INFO	Listening on port 44741
+1643190751016	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643190763834	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643190797704	Marionette	INFO	Stopped listening on port 44741
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643190868183	geckodriver	INFO	Listening on 127.0.0.1:58177
+1643190868185	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49917" "-no-remote" "-profile" "/tmp/rust_mozprofileQnFkTb"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643190868664	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQnFkTb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49917/devtools/browser/da563c85-20cd-456a-b5b1-95c6ee7c0ae7
+1643190869556	Marionette	INFO	Listening on port 42373
+1643190869604	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+1643190873638	Marionette	INFO	Stopped listening on port 42373
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileQnFkTb/protections.sqlite
+1643190939686	geckodriver	INFO	Listening on 127.0.0.1:52951
+1643190939689	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44405" "-no-remote" "-profile" "/tmp/rust_mozprofile6JUyVU"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643190940157	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6JUyVU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44405/devtools/browser/086f7c0f-656b-46ab-b801-96ff7b103c3f
+1643190941093	Marionette	INFO	Listening on port 45621
+1643190941202	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+1643190945285	Marionette	INFO	Stopped listening on port 45621
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofile6JUyVU/protections.sqlite
+1643190962493	geckodriver	INFO	Listening on 127.0.0.1:39311
+1643190962497	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51121" "-no-remote" "-profile" "/tmp/rust_mozprofileQE8PHQ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643190962988	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQE8PHQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51121/devtools/browser/dea8f267-610f-4f3f-9fb0-4c4d5c96ce11
+1643190964036	Marionette	INFO	Listening on port 39801
+1643190964110	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.gstatic.com/charts/51/js/jsapi_compiled_default_module.js, line 65: TypeError: can't convert undefined to object
+1643190977310	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643191011234	Marionette	INFO	Stopped listening on port 39801
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643191113544	geckodriver	INFO	Listening on 127.0.0.1:48189
+1643191113547	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "32833" "-no-remote" "-profile" "/tmp/rust_mozprofileiZ0MSJ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643191113996	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiZ0MSJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:32833/devtools/browser/9c37d6ac-fabe-41ce-9710-a877bae3cfd3
+1643191114854	Marionette	INFO	Listening on port 44935
+1643191114960	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+1643191119367	Marionette	INFO	Stopped listening on port 44935
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileiZ0MSJ/protections.sqlite
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643191247367	geckodriver	INFO	Listening on 127.0.0.1:45797
+1643191247370	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36615" "-no-remote" "-profile" "/tmp/rust_mozprofileizZvYR"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643191247844	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileizZvYR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36615/devtools/browser/1b7a9aa3-b7da-4680-901c-7048cadd0ad5
+1643191248863	Marionette	INFO	Listening on port 44065
+1643191248884	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643191258613	Marionette	INFO	Stopped listening on port 44065
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643527389125	geckodriver	INFO	Listening on 127.0.0.1:51227
+1643527389632	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40091" "-no-remote" "-profile" "/tmp/rust_mozprofileOZwQP6"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643527390231	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOZwQP6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40091/devtools/browser/75260e21-acb2-4608-9ef1-35044a425023
+1643527391296	Marionette	INFO	Listening on port 41401
+1643527391349	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643527416039	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643527449854	Marionette	INFO	Stopped listening on port 41401
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643546985941	geckodriver	INFO	Listening on 127.0.0.1:54803
+1643546985944	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57757" "-no-remote" "-profile" "/tmp/rust_mozprofileHHE0Rw"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643546986425	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHHE0Rw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57757/devtools/browser/fb4d1572-7bbf-42e3-ab6b-46718d22ad68
+1643546987363	Marionette	INFO	Listening on port 43617
+1643546987457	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643547012766	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643547037342	Marionette	INFO	Stopped listening on port 43617
+1643547132267	geckodriver	INFO	Listening on 127.0.0.1:50673
+1643547132270	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33137" "-no-remote" "-profile" "/tmp/rust_mozprofile7fHzyI"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643547132744	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7fHzyI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33137/devtools/browser/983e5506-1ab6-4c59-b3ad-002191a054e3
+1643547133843	Marionette	INFO	Listening on port 40363
+1643547133883	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://analytics.amagi.tv"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643547159058	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1643547193030	Marionette	INFO	Stopped listening on port 40363
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
